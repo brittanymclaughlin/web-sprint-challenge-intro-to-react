@@ -28,7 +28,9 @@ const Container = styled.div`
     h2{
         font-size:1.3rem;
         text-decoration:underline;
-        
+        :hover{
+            color:brown;
+        }
     }
     p{
         font-size:0.8rem;
